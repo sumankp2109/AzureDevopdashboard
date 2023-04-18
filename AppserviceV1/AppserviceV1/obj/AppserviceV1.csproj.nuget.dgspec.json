@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SUMAN\\source\\repos\\SampleProject_X1_Github\\AppserviceV1\\AppserviceV1\\AppserviceV1.csproj": {}
+    "C:\\Users\\SUMAN\\OneDrive\\Desktop\\Udemy\\AppserviceV1\\AppserviceV1\\AppserviceV1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SUMAN\\source\\repos\\SampleProject_X1_Github\\AppserviceV1\\AppserviceV1\\AppserviceV1.csproj": {
+    "C:\\Users\\SUMAN\\OneDrive\\Desktop\\Udemy\\AppserviceV1\\AppserviceV1\\AppserviceV1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SUMAN\\source\\repos\\SampleProject_X1_Github\\AppserviceV1\\AppserviceV1\\AppserviceV1.csproj",
+        "projectUniqueName": "C:\\Users\\SUMAN\\OneDrive\\Desktop\\Udemy\\AppserviceV1\\AppserviceV1\\AppserviceV1.csproj",
         "projectName": "AppserviceV1",
-        "projectPath": "C:\\Users\\SUMAN\\source\\repos\\SampleProject_X1_Github\\AppserviceV1\\AppserviceV1\\AppserviceV1.csproj",
+        "projectPath": "C:\\Users\\SUMAN\\OneDrive\\Desktop\\Udemy\\AppserviceV1\\AppserviceV1\\AppserviceV1.csproj",
         "packagesPath": "C:\\Users\\SUMAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SUMAN\\source\\repos\\SampleProject_X1_Github\\AppserviceV1\\AppserviceV1\\obj\\",
+        "outputPath": "C:\\Users\\SUMAN\\OneDrive\\Desktop\\Udemy\\AppserviceV1\\AppserviceV1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SUMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
